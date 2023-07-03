@@ -1,0 +1,12 @@
+:root {
+    --primary: #F7B801;
+    --secondary:#7678ED;
+    --accento:#F18701;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
